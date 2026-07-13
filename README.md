@@ -19,9 +19,16 @@ The project answers 3 key business questions:
 **| Tool | Purpose |**
 
 | Microsoft Excel | Data collection and storage |
+
 | SQL Server (SSMS) | Database creation and queries |
+
+
 | Python (pandas, matplotlib) | Data cleaning and analysis |
+
+
 | Power BI | Interactive dashboard |
+
+
 | GitHub | Project sharing |
 
 ## 📊 Data Collected
