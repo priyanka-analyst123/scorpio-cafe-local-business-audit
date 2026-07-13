@@ -36,6 +36,7 @@ The project answers 3 key business questions:
 **| Source | Data |**
 
 | Google Maps | 30 customer reviews |
+
 | Google Maps | Competitor ratings |
 
 ## 🗃️ Database Structure
@@ -64,8 +65,11 @@ The project answers 3 key business questions:
 **| Cafe | Rating | Reviews |**
 
 | Scorpio Café | 4.0 | 2561 |
+
 | Cafe Junk Delhi | 4.3 | 305 |
+
 | Moustache Coffee | 3.8 | 427 |
+
 | Veerji Malai Chaap | 3.9 | 214 |
 
 ## 💡 Recommendations
@@ -73,7 +77,9 @@ The project answers 3 key business questions:
 **| Priority | Problem | Action | Expected Impact |**
 
 | 🚨 Urgent | Hygiene | Monthly pest control | Rating 4.0 → 4.3 |
+
 | ⚠️ Important | Slow Service | Add evening staff | Rating 4.0 → 4.2 |
+
 | ✅ Opportunity | Star Items | Promote on Zomato | Sales +20% |
 
 ## 📁 Project Files
@@ -81,8 +87,11 @@ The project answers 3 key business questions:
 **| File | Description |**
 
 | `scorpio_cafe_audit.xlsx` | Raw data — 5 sheets |
+
 | `scorpio_cafe_audit.sql` | SQL database and queries |
+
 | `scorpio_cafe_analysis.ipynb` | Python EDA and charts |
+
 | `scorpio_cafe_audit.pbix` | Power BI dashboard |
 
 ## 📈 Dashboard Pages
@@ -95,7 +104,9 @@ The project answers 3 key business questions:
 ## 👤 Author
 
 **PRIYANKA BISHT**
+
 Aspiring Data Analyst
+
 📧 priyankabisht022004@gmail.com
 
 ## ⚠️ Disclaimer
